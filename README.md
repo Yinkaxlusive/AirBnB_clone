@@ -127,11 +127,19 @@ manipulate objects using restful api
 web dynamic - learn jquery
 load objects from client using restful api
 
-
-
-
 console.py is the entry point of the program 
 model dir contain all classes
 test dir contain all unitest
 models/engine contain all storage classes
 models/base_model.py contain common elements , methods and attributes
+
+AUTHORS ARE:
+Adeyinka Onatola-Morakinyo <97adeyinkaonatola@gmail.com>
+William Maina <willima09@gmail.com>
+
+
+
+
+
+
+
